@@ -16,11 +16,11 @@ fvm install --save --folder=esx esx-public/esx_vehiclelock
 ### Using Git
 ```
 cd resources
-git clone https://github.com/ESX-PUBLIC/esx_vehiclelock [esx]/esx_vehiclelock
+git clone https://github.com/GarrysGaming/esx_vehiclelock [esx]/esx_vehiclelock
 ```
 
 ### Manually
-- Download https://github.com/ESX-PUBLIC/esx_vehiclelock/archive/master.zip
+- Download https://github.com/GarrysGaming/esx_vehiclelock/archive/master.zip
 - Put it in the `[esx]` directory
 
 ## Installation
